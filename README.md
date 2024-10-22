@@ -1,7 +1,9 @@
 # module_11_challenge
 Module 11 Challenge for Morgan Bee
 
-In this challenge, I used all class activities from Module 11 and from Module 5. I also used Khaled's class notes in the juptyer notebook to help me through the challenge. 
+In this challenge, you will find my Jupyter Notebooks in the folder mars_data and the output .csv file in mars_data>output. 
+
+In order to complete this challenge, I used all class activities from Module 11 and from Module 5. I also used Khaled's class notes in the juptyer notebook to help me through the challenge. 
 
 Chat GPT helped me with this line of code: name = [header.get_text(strip = True) for header in headers] in the part 2 notebook to loop through the scraped data to find the correct information needed for the dataframe, for both the headers and the data. 
 
